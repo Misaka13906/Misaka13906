@@ -8,7 +8,9 @@
 - 🔭 I'm also trying to explore some unfamiliar areas in the field of computer in order to discover which other areas I will be interested in.
   - An example: [an os camp](https://opencamp.cn/os2edu/camp/2024fall)
 ---
-
+#### my github stats
+[![Your GitHub stats](https://github-readme-stats-eight-ecru-64.vercel.app/api?username=misaka13906)](https://github.com/misaka13906)
+---
 - My accounts on Online Judges
   - [Nowcoder](https://ac.nowcoder.com/acm/contest/profile/791208730) (mainly used now)
   - [Luogu](https://www.luogu.com.cn/user/201335) (mainly used in the past)
